@@ -1,5 +1,4 @@
 
-```markdown
 # ML Sports Project
 
 ## Overview
