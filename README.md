@@ -48,20 +48,10 @@ To get started with this project, you'll need to set up the following environmen
 
 ## Usage
 
-- **Data Preprocessing**: Scripts to clean and prepare the raw data (`data_preprocessing.py`).
-- **Model Training**: Scripts to train different ML models (`train_model.py`).
-- **Prediction**: Use the trained models to make predictions (`predict.py`).
-- **Visualization**: Visualize the results (`visualize.py`).
+- **Data Preprocessing**: Scripts to clean and prepare the raw data (`get_data.ipynb`).
+- **Model Training**: Scripts to train different ML models (`parse_data.ipynb`).
+- **Prediction**: Use the trained models to make predictions (`predict.ipynb`).
 
-### Example
-
-Here’s how to use the prediction script to predict the outcome of a match:
-
-```bash
-python predict.py --team1 "Team A" --team2 "Team B"
-```
-
-This will output the predicted result for the match between Team A and Team B.
 
 ## Models Used
 
@@ -74,26 +64,11 @@ This will output the predicted result for the match between Team A and Team B.
 
 This project utilizes several data sources, including:
 
-- [Sports Data API](https://www.example.com/api) for match statistics.
-- Historical match data from various sports leagues.
+- Historical match data from various NBA seasons.
 - Player performance data from open datasets (e.g., from Kaggle).
 
-## Contributing
-
-We welcome contributions to improve the model and enhance its performance. If you'd like to contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
-3. Make your changes.
-4. Open a pull request detailing your changes and improvements.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
-- Thanks to [Author Name] for the dataset and [Library Name] for the machine learning framework.
-- Special thanks to the open-source community for their support and contributions.
-```
+- Written by Skanda Ramanan
 
