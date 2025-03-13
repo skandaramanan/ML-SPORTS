@@ -65,7 +65,7 @@ To get started with this project, you'll need to set up the following environmen
 This project utilizes several data sources, including:
 
 - Historical match data from various NBA seasons.
-- Player performance data from open datasets (e.g., from Kaggle).
+- Player performance data from open datasets (BasketballReference).
 
 
 ## Acknowledgments
